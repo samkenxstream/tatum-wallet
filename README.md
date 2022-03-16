@@ -1,4 +1,5 @@
-# Tatum Wallet
+# DEPRECATED: Tatum Wallet
+This repository will no longer be maintained since the DEMO application is outdated.
 
 *Note that you will need to have [Node.js](https://nodejs.org/en/download/current/) 14+ installed.*
 
